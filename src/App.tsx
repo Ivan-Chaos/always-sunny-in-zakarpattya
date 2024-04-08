@@ -21,6 +21,7 @@ export const App = () => (
   <QueryClientProvider client={queryClient}>
     <ChakraProvider theme={theme}>
       <Sunpage />
+      <ColorModeSwitcher justifySelf="flex-end" />
     </ChakraProvider>
   </QueryClientProvider>
 );
