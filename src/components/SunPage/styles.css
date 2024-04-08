@@ -1,0 +1,15 @@
+.bazingen{
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.externalContainerName{
+    border-radius: 4px !important;
+    border: none !important;
+
+}
+
+.externalContainerName * {
+    border: none !important;
+}
