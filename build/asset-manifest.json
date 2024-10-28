@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/always-sunny-in-zakarpattya/static/css/main.ed285135.css",
+    "main.js": "/always-sunny-in-zakarpattya/static/js/main.e15ab724.js",
+    "static/js/453.ed3810f9.chunk.js": "/always-sunny-in-zakarpattya/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/always-sunny-in-zakarpattya/index.html",
+    "main.ed285135.css.map": "/always-sunny-in-zakarpattya/static/css/main.ed285135.css.map",
+    "main.e15ab724.js.map": "/always-sunny-in-zakarpattya/static/js/main.e15ab724.js.map",
+    "453.ed3810f9.chunk.js.map": "/always-sunny-in-zakarpattya/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed285135.css",
+    "static/js/main.e15ab724.js"
+  ]
+}
