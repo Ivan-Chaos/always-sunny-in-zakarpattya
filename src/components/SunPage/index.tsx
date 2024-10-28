@@ -67,7 +67,7 @@ const Sunpage: FunctionComponent<SunpageProps> = () => {
           <Heading>Solar Activity Tracker</Heading>
           <Flex alignItems={"center"}>
             <Text fontSize={"0.875rem"}>
-              Sponsored by NASA's Solar Dynamics Observatory!
+              Powered by NASA's Solar Dynamics Observatory!
             </Text>
             <Image
               h={"2rem"}
