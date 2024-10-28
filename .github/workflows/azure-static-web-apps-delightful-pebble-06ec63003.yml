@@ -33,7 +33,6 @@ jobs:
           output_location: "build" # Built app content directory - optional
           app_build_command: 'npm run build'
 
-          skip_app_build: true
 
           ###### End of Repository/Build Configurations ######
 
