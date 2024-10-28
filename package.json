@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://gentle-ocean-0b5a4b103.5.azurestaticapps.net",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
